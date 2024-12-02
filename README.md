@@ -12,7 +12,7 @@ A Python-based project that uses Gemini AI to recognize vehicle license plates f
     "vehicle": "car",
     "vehicle_type": "sedan",
     "color": "red",
-     'expiry_data' : "07 - 17"
+    "expiry_data" : "07 - 17",
     "gate_open": "2024-12-02 18.15.01",
     "gate_closed": "N/A"
   }
